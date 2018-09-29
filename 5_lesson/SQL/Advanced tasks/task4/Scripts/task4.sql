@@ -1,0 +1,1 @@
+SELECT * FROM voice4.task4;

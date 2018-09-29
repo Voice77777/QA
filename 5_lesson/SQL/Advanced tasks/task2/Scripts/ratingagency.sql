@@ -1,0 +1,1 @@
+SELECT * FROM voice2.ratingagency;

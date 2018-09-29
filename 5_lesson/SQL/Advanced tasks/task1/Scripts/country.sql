@@ -1,0 +1,1 @@
+SELECT * FROM voice_task1.country;
