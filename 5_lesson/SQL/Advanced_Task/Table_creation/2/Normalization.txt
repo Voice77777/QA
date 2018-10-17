@@ -1,0 +1,2 @@
+Normalization.
+The database is normalized and presented in the third normal form.

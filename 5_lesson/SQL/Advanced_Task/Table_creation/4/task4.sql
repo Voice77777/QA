@@ -1,0 +1,8 @@
+CREATE TABLE `task4` (
+  `ID` int(11) NOT NULL AUTO_INCREMENT,
+  `ClientID` int(11) NOT NULL,
+  `ServiceID` int(11) NOT NULL,
+  `Date` date NOT NULL,
+  `RegionID` int(11) NOT NULL,
+  PRIMARY KEY (`ID`)
+) ENGINE=InnoDB AUTO_INCREMENT=9 DEFAULT CHARSET=utf8mb4
