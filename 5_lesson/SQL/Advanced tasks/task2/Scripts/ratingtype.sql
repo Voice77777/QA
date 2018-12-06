@@ -1,1 +1,0 @@
-SELECT * FROM voice2.ratingtype;

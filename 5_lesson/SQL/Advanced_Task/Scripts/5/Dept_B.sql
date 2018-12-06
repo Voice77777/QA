@@ -1,1 +1,0 @@
-SELECT * FROM task5.deptb;
